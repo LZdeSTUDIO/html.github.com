@@ -1,1 +1,1 @@
-lz_studio,hollow world!
+lz_studio,hollow word!
